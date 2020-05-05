@@ -74,6 +74,8 @@ main {
 
 }
 
+/* sender */
+
 
 .row-left {
 
@@ -88,6 +90,8 @@ main {
 
 }
 
+/* email text */
+
 .row-right {
 
   display: inline-block;
@@ -101,11 +105,16 @@ main {
 
 }
 
+/* mail read */
+
 .row-read {
 
   background-color: white;
 
 }
+
+/* mail unread */
+
 .row-unread {
 
   background-color: lightgrey;
